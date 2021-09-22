@@ -1,6 +1,6 @@
 # 🧔🏽‍♂️ Wellyngton de Paula 
 
-#### Formado em Gestão da TI em 2019, atualmente estudo linguagens de programação,frameworks e boas praticas para front end.  <br/>  Busco aprender e desenvolver as melhores praticas de desenvolvimento.
+#### Formado em Gestão da TI em 2019, atualmente estudo linguagens de programação,<br/> frameworks e boas praticas para front end.  <br/>  Busco aprender e desenvolver as melhores praticas de desenvolvimento.
 
  <br/> :computer: &nbsp; Estudando: ReactJS, Node.js, Typescript, JavaScript e CSS
  <br/> 
