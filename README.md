@@ -2,6 +2,7 @@
 
 #### Formado em Gestão da TI em 2019, atualmente estudo linguagens de programação,<br/> frameworks e boas praticas para front end.  <br/>  Busco aprender e desenvolver as melhores praticas de desenvolvimento.
 
+#### https://well-portfolio.netlify.app
  <br/> :computer: &nbsp; Estudando: ReactJS, Node.js, Typescript, JavaScript e CSS
  <br/> 
  <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologia, esportes e adrenalina
